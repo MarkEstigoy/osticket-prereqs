@@ -91,4 +91,9 @@ Once we've prepped the VM for installation, we can go ahead and install PHP Mana
 <img src="https://i.ibb.co/q1nvDQJ/step2-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Next install the Rewrite Module (rewrite_amd64_en-US.msi) (https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+</p>
+<br />
+<img src="https://i.ibb.co/F6qwmWR/step2-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/tHYX9SJ/step2-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
