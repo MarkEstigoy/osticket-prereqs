@@ -81,3 +81,14 @@ Next step is too checkmark all of the options for "Common HTTP Features", you ca
 <br />
 
 <img src="https://i.ibb.co/jZ8hfvP/step1-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once we've prepped the VM for installation, we can go ahead and install PHP Manager. (PHPManagerForIIS_V1.5.0.msi) (https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link) 
+</p>
+<br />
+<img src="https://i.ibb.co/kQvrkTm/step2-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/y00LCMg/step2-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/q1nvDQJ/step2-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
