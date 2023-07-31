@@ -74,3 +74,10 @@ Once thats complete, go into "Internet Information Services" tab then into "Worl
 <br />
 <img src="https://i.ibb.co/VC3D5fh/step1-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/jMjfJ1F/step1-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next step is too checkmark all of the options for "Common HTTP Features", you can find this tab under the same tab of "World Wide Web Services"
+</p>
+<br />
+
+<img src="https://i.ibb.co/jZ8hfvP/step1-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
