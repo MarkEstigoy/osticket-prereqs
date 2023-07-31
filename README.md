@@ -40,14 +40,37 @@ Next step is too create your VM, this is where we will install OS-Ticket
 <img src="https://i.ibb.co/hFPcND0/step1-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Remote desktop into the VM you've just created
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/gdXrSLq/step1-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once your in the VM, use this link too access the installation files (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit)
 </p>
 <br />
+<img src="https://i.ibb.co/ZYTmmtw/step1-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+</p>
+<br />
+Here are the installation files (https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+</p>
+<br />
+<img src="https://i.ibb.co/pPPsb1n/step1-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next step is too enable ISS in Windows WITH CGI and Common HTTPS Features, to do this go too Programs and Features and select the option "Turn Windows features on or off"
+</p>
+<br />
+<img src="https://i.ibb.co/LS5NJ12/step1-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once thats complete, go into "Internet Information Services" tab then into "World Wide Web Services" then into "Application Development Feautures" then lastly checkmark "CGI" to enable it.
+</p>
+<br />
+<img src="https://i.ibb.co/VC3D5fh/step1-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/jMjfJ1F/step1-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
