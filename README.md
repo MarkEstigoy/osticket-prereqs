@@ -146,6 +146,18 @@ On the setup options you will want too choose "Typical", and "Standard Configura
 <img src="https://i.ibb.co/Trf0Kmt/step3-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/XVgJnDC/step3-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/DQ9CSLC/step3-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Enter a password (NOTE- Please be sure too write down this password or memorize it, you will need this too login into MySQL later)
+</p>
+<br />
+<img src="https://i.ibb.co/hym736L/step3-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once all that is completed, press "Execute"
+</p>
+<br />
+<img src="https://i.ibb.co/1fZjRhr/step3-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
