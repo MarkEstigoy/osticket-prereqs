@@ -96,4 +96,24 @@ Next install the Rewrite Module (rewrite_amd64_en-US.msi) (https://drive.google.
 <br />
 <img src="https://i.ibb.co/F6qwmWR/step2-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/tHYX9SJ/step2-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next step is too create a PHP folder inside the windows (C:)DRIVE
+</p>
+<br />
+<img src="https://i.ibb.co/4VgNYCZ/step2-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Download PHP from the installation folder (https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link) (php-7.3.8-nts-Win32-VC15-x86.zip)
+</p>
+<br />
+<img src="https://i.ibb.co/JqRrzBb/step2-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once that download is complete, you can find the file under "Downloads". Extract all the contents of the file and place them under the PHP folder we've created in (C:) Drive
+</p>
+<br />
+<img src="https://i.ibb.co/rH16Q77/step2-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/dPyCzX7/step2-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/5L12bh8/step3-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
