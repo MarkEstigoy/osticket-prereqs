@@ -116,4 +116,15 @@ Once that download is complete, you can find the file under "Downloads". Extract
 <img src="https://i.ibb.co/rH16Q77/step2-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/dPyCzX7/step2-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/5L12bh8/step3-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next file too download and install is VC_redist.x86.exe (https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link) 
+<img src="https://i.ibb.co/CwVPrnx/step3-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You can find the file under "Downloads", open it up and press "Install"
+</p>
+<br />
+<img src="https://i.ibb.co/GTkR5ft/step3-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
