@@ -126,5 +126,26 @@ You can find the file under "Downloads", open it up and press "Install"
 </p>
 <br />
 <img src="https://i.ibb.co/GTkR5ft/step3-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next step is download "MySQL"
+</p>
+<br />
+<img src="https://i.ibb.co/TchykbR/step3-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once its done, open it up and click next 
+</p>
+<br />
+<img src="https://i.ibb.co/p13m3zN/step3-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+On the setup options you will want too choose "Typical", and "Standard Configuration" 
+</p>
+<br />
+<img src="https://i.ibb.co/Trf0Kmt/step3-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/XVgJnDC/step3-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/DQ9CSLC/step3-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
