@@ -225,5 +225,35 @@ Restart the VM. You can now find OSticket, select it and press "Browse *:80 (htt
 <img src="https://i.ibb.co/FKB3rLM/step5-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/mFL9V1g/step5-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/f4MKQCc/step5-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+The next step is too enable some of the options in our OSTicket 
+</p>
+<br />
+<img src="https://i.ibb.co/kMHMxvz/step5-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+To do this, go back into ISS > PHP Manager and select "Enable or disable an extension" 
+</p>
+<br />
+<img src="https://i.ibb.co/WtLvJzb/step5-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/ct2XVpq/step6-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Enable: (php_imap.dll) (php_intll.dll) (php_opcache.dll) , Refresh OSticket afterwards
+</p>
+<br />
+<img src="https://i.ibb.co/Kr3hYBL/step6-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/y4Wmdbn/step6-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+The extensions should now have a green check mark 
+</p>
+<br />
+<img src="https://i.ibb.co/2vJcydT/step6-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
 
 
