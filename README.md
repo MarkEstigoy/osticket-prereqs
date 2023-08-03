@@ -211,6 +211,19 @@ Once you've downloaded OS-Ticket, you will want too drop the "upload" folder int
 <img src="https://i.ibb.co/D1PDhKs/step5-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/GCwJL0Q/step5-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/cg4D5mk/step5-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
+<br />
+Once the upload folder has been downloaded, RENAME it into OS-Ticket
+</p>
+<br />
+<img src="https://i.ibb.co/B6TZkJ4/step5-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Restart the VM. You can now find OSticket, select it and press "Browse *:80 (http)" too open up the website 
+</p>
+<br />
+<img src="https://i.ibb.co/FKB3rLM/step5-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/mFL9V1g/step5-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/f4MKQCc/step5-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
