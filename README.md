@@ -184,6 +184,31 @@ Select "php-cgi" and press OK afterwards
 <br />
 <img src="https://i.ibb.co/hHs7vjv/step4-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/WfVGyGT/step4-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We have now registered PHP
+</p>
+<br />
+<img src="https://i.ibb.co/ckbfmTj/step4-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Make sure too restart the web server 
+</p>
+<br />
+<img src="https://i.ibb.co/WFLpDs5/step4-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Now we can download OS-Ticket, you can find the download link in the installation files (https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+</p>
+<br />
+<img src="https://i.ibb.co/f1R30K3/step4-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once you've downloaded OS-Ticket, you will want too drop the "upload" folder into "inetpub" into "wwwroot" (Windows C: > inetpub > wwwroot) 
+<img src="https://i.ibb.co/cyCDbzC/step5-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/D1PDhKs/step5-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/GCwJL0Q/step5-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/cg4D5mk/step5-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
