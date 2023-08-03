@@ -171,6 +171,19 @@ Once your in the ISS app, we will want too register a new PHP. To do this select
 <br />
 <img src="https://i.ibb.co/410TxPs/step4-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/qMmxhgV/step4-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Go into Windows C: drive and select the "PHP" folder
+</p>
+<br />
+<img src="https://i.ibb.co/BtdL2Rn/step4-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select "php-cgi" and press OK afterwards
+</p>
+<br />
+<img src="https://i.ibb.co/hHs7vjv/step4-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/WfVGyGT/step4-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
