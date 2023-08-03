@@ -158,6 +158,15 @@ Once all that is completed, press "Execute"
 </p>
 <br />
 <img src="https://i.ibb.co/1fZjRhr/step3-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Now we have option too run "ISS", type it in the search tab and open it as an administrator. "Run as Administrator" option
+</p>
+<br />
+<img src="https://i.ibb.co/vwWbTnV/step4-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 
 
 
