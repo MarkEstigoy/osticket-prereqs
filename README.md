@@ -205,6 +205,8 @@ Now we can download OS-Ticket, you can find the download link in the installatio
 </p>
 <br />
 Once you've downloaded OS-Ticket, you will want too drop the "upload" folder into "inetpub" into "wwwroot" (Windows C: > inetpub > wwwroot) 
+</p>
+<br />
 <img src="https://i.ibb.co/cyCDbzC/step5-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/D1PDhKs/step5-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/GCwJL0Q/step5-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
