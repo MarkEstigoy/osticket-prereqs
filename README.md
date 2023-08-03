@@ -166,7 +166,11 @@ Now we have option too run "ISS", type it in the search tab and open it as an ad
 <img src="https://i.ibb.co/vwWbTnV/step4-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
+Once your in the ISS app, we will want too register a new PHP. To do this select "PHP Manager" and "Register new PHP version"
+</p>
+<br />
+<img src="https://i.ibb.co/410TxPs/step4-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/qMmxhgV/step4-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
