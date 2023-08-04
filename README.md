@@ -264,6 +264,53 @@ Next we will want too give everyone permission too manipulate the file, too star
 </p>
 <br />
 <img src="https://i.ibb.co/NjDRZXy/step6-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Now go into Security > Advanced and press "Disable inheritance".
+</p>
+<br />
+<img src="https://i.ibb.co/QcrdNbL/step6-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select "Remove all inherited permissions from this object"
+</p>
+<br />
+<img src="https://i.ibb.co/CHNytpd/step6-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once thats complete, we can now edit the permissions. Press "Select a principal" and type in "Everyone" 
+</p>
+<br />
+<img src="https://i.ibb.co/5YBL41b/step6-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/T11yX2w/step7-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select all for "Basic Permissions" and hit apply/OK afterwards 
+</p>
+<br />
+<img src="https://i.ibb.co/TPrfbcW/step7-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/DfKwKhB/step7-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once thats completed, we will want too set up our Help Desk. Click continue on osTicket 
+</p>
+<br />
+<img src="https://i.ibb.co/GptXSJ5/step7-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Fill in the empty slots (Please make sure you remember username/password)
+</p>
+<br />
+<img src="https://i.ibb.co/KFLwqr3/step7-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next step is too download HeidiSQL (https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit)
+</p>
+<br />
+<img src="https://i.ibb.co/c88k507/step7-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/WBXwFhK/step7-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/0DbgJ4s/step7-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
