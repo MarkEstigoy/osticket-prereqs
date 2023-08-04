@@ -334,6 +334,43 @@ After clicking "Database" type in "osTicket" too create it
 </p>
 <br />
 <img src="https://i.ibb.co/zZzNXBz/step8-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+After creating osTicket in HeidiSQL, go back into osTicket installer and fill in the blanks for "Database Settings". Click "Install Now" once everything is typed 
+</p>
+<br />
+<img src="https://i.ibb.co/WD9wQ7L/step8-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Congratulations! You've now installed OsTicket! 
+</p>
+<br />
+<img src="https://i.ibb.co/NKk9x8t/step8-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Now we are going too do a little bit of clean up, go in Windows (C:) > inetpub > wwwroot > OsTicket and DELETE the "setup" folder
+</p>
+<br />
+<img src="https://i.ibb.co/mqHB2fD/step8-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Now we are going too change the permissions. Go into ost-config > properties and select "Everyone" and press Advanced too edit the permissions. 
+</p>
+<br />
+<img src="https://i.ibb.co/2jSdkbq/step8-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/LxXmzgF/step8-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Uncheck all the boxes except for "Read & execute" 
+</p>
+<br />
+<img src="https://i.ibb.co/MhPR2Mj/step8-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+
+
 
 
 
