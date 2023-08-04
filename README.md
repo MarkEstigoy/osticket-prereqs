@@ -361,10 +361,11 @@ Now we are going too change the permissions. Go into ost-config > properties and
 <img src="https://i.ibb.co/LxXmzgF/step8-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Uncheck all the boxes except for "Read & execute" 
+Uncheck all the boxes except for "Read & execute", hit Apply and OK afterwards
 </p>
 <br />
 <img src="https://i.ibb.co/MhPR2Mj/step8-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/vZbRJk6/step8-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
