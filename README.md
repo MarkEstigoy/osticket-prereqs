@@ -253,6 +253,17 @@ The extensions should now have a green check mark
 <img src="https://i.ibb.co/2vJcydT/step6-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+The next thing we will want too do is rename "ost-sampleconfig.php" into "ost-config.php". We can find ost-sampleconfig.php in the Windows C: > inetpub > wwwroot 
+</p>
+<br />
+<img src="https://i.ibb.co/dfF6rdr/step6-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/kyvGXnj/step6-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will want too give everyone permission too manipulate the file, too start this right click on "ost-config" and select properties
+</p>
+<br />
+<img src="https://i.ibb.co/NjDRZXy/step6-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
