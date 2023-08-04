@@ -368,7 +368,16 @@ Uncheck all the boxes except for "Read & execute", hit Apply and OK afterwards
 <img src="https://i.ibb.co/vZbRJk6/step8-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
+Thats it! Use these links too access OsTicket, type in your username/password too login
+</p>
+<br />
+<img src="https://i.ibb.co/hLhX0cG/step8-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/bFrCcCn/step9-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/LZHT6WX/step9-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/xYk8c1m/step9-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Congratulations! You have now installed your own OsTicket
 
 
 
