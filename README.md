@@ -308,8 +308,34 @@ Next step is too download HeidiSQL (https://docs.google.com/document/d/1WovrX2Da
 </p>
 <br />
 <img src="https://i.ibb.co/c88k507/step7-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Continue pressing next on default settings
+</p>
+<br />
 <img src="https://i.ibb.co/WBXwFhK/step7-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/0DbgJ4s/step7-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next step, we will want too set up a new connection. Once HeidiSQL launches, press "New" then sign in using the username and password we have typed in when we first installed MySQL 
+</p>
+<br />
+<img src="https://i.ibb.co/5RN1bt5/step7-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once we are in, we want too create a new database for OSticket. Right click on Unamed > Create new > Database 
+</p>
+<br />
+<img src="https://i.ibb.co/T1wsq6m/step7-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/gSXfYmS/step8-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+After clicking "Database" type in "osTicket" too create it 
+</p>
+<br />
+<img src="https://i.ibb.co/zZzNXBz/step8-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 
 
 
